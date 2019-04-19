@@ -9,7 +9,7 @@
 
 ## dagtoolsのセットアップについて
 本スクリプトの実行には、dagtoolsが実行環境に正しくセットアップされている必要があります。
-詳細はdagtoolsの[マニュアル](https://docs.dag.iijgio.com/storage/dagtools.html)をご覧ください。
+詳細はdagtoolsの[マニュアル](http://docs.dag.iijgio.com/storage/dagtools.html)をご覧ください。
 
 # 動作環境
 動作確認は各サンプルのREADMEをご覧ください。
