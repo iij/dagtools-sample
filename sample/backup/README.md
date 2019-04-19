@@ -1,6 +1,6 @@
 # IIJ GIO ストレージ&アナリシスサービス バックアップスクリプトサンプル
 本リポジトリには、IIJ GIO ストレージ&アナリシスサービス バックアップスクリプトサンプルが格納されています。
-[dagtools](https://docs.dag.iijgio.com/storage/dagtools.html) とシェルスクリプトを組み合わせ、バックアップ処理を実現するサンプルです。
+[dagtools](http://docs.dag.iijgio.com/storage/dagtools.html) とシェルスクリプトを組み合わせ、バックアップ処理を実現するサンプルです。
 
 # 注意事項&免責事項
 十分な試験を実施しておりますが本スクリプトはサンプルです。
@@ -10,7 +10,7 @@
 
 # 動作環境
 動作確認はCentOS 7.2で実施しました。
-dagtoolsは事前にセットアップされている必要があります。dagtoolsのセットアップは[こちら](https://docs.dag.iijgio.com/storage/dagtools.html)をご覧ください。
+dagtoolsは事前にセットアップされている必要があります。dagtoolsのセットアップは[こちら](http://docs.dag.iijgio.com/storage/dagtools.html)をご覧ください。
 実行にはインターネット接続が必須です。
 
 # サンプルスクリプトの説明
